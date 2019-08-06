@@ -389,7 +389,7 @@ p {
 }
 
 /***************************************************************************/
-/*                            localization                                 */
+/*                            LOCATION                                        */
 /***************************************************************************/
 .address {
   color: #0300a2;
@@ -398,7 +398,7 @@ p {
   line-height: 5px;
   margin-top: 50px;
 }
-.localization {
+.location {
   color: #0300a2;
   font-family: "IBM Plex Sans";
   font-size: 55px;
